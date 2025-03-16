@@ -20,7 +20,7 @@ _Automating osu! mania beatmap creation using AI_
 
 #### 🔥 Disaster Quest: A Simple Game about Disaster Preparedness
 _Simple game created with GoDot during SCU's Hack for Humanity Hackathon_  
-🔹 Use of open source game engine GoDot and its custom scripting language, GDScript
+🔹 Use of open source game engine GoDot and its custom scripting language: GDScript
 🔹 Santa Clara University's Hack for Humanity Game Winner
 
 [➡ View Project](https://github.com/j-his/disaster_quest)
