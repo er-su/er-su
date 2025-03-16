@@ -20,15 +20,15 @@ _Automating osu! mania beatmap creation using AI_
 
 #### 🔥 Disaster Quest: A Simple Game about Disaster Preparedness
 _Simple game created with GoDot during SCU's Hack for Humanity Hackathon_  
+🔹 Santa Clara University's Hack for Humanity Game Winner  
 🔹 Use of open source game engine GoDot and its custom scripting language: GDScript
-🔹 Santa Clara University's Hack for Humanity Game Winner
 
 [➡ View Project](https://github.com/j-his/disaster_quest)
 
 #### 🧠 Simple Neural Network from Scratch
 _Detecting handwritten digits from the MNIST dataset_  
-🔹 A simple fully connected perceptron written in Rust 
-🔹 Used without any trivializing libraries 
+🔹 A simple fully connected perceptron written in Rust  
+🔹 Used without any trivializing libraries  
 
 [➡ View Project](https://github.com/er-su/simple-neural-net)
 
