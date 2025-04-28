@@ -12,11 +12,18 @@ Hi there! I'm **er-su**, a passionate computer science and engineering student i
 
 #### 🎵 mania-gen: osu! Beatmap Generator  
 _Automating osu! mania beatmap creation using AI_  
-🔹 Uses deep learning to generate beatmaps from audio  
-🔹 Feature extraction and note mapping for rhythm games  
-🔹 Built with PyTorch and with 3.4 million trainable parameters  
+🔹 Uses CRNN like model to generate beatmaps from audio  
+🔹 Feature extraction and note mapping for _osu! mania_, a rhythm game  
+🔹 Custom built model with PyTorch and with 3.4 million trainable parameters  
 
 [➡ View Project](https://github.com/er-su/mania-gen)
+
+#### 🐦 Learning to Fly: An Evolutionary Algorithm
+_Mimicking how birds fly using an evolutionary algoirthm_  
+🔹 Creation of a matrix-based fully connected neural network to model decision-making  
+🔹 Implementation and usage of Population-Based Training for hyperparameter optimization 
+
+[➡ View Project](https://github.com/er-su/learn-to-fly)
 
 #### 🔥 Disaster Quest: A Simple Game about Disaster Preparedness
 _Simple game created with GoDot during SCU's Hack for Humanity Hackathon_  
